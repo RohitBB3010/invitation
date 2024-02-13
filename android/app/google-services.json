@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746802212180",
+    "project_id": "invitation-2ea60",
+    "storage_bucket": "invitation-2ea60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746802212180:android:bc4debcf3cc3009b6bacc1",
+        "android_client_info": {
+          "package_name": "com.example.invitation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzhqRZ83Xy_IqSrHRytWevReCUBNZFLu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
